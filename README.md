@@ -1,7 +1,3 @@
-Dưới đây là gợi ý `README.md` (bản thô, anh chỉnh sửa thêm cho phù hợp repo thực tế).
-
-***
-
 # VSTEP Online Exam Platform
 
 Nền tảng thi/thi thử VSTEP online full 4 kỹ năng (Nghe – Nói – Đọc – Viết), dành cho thí sinh, giảng viên và nhà trường.  
@@ -34,7 +30,7 @@ Mục tiêu: giảm chi phí luyện/đánh giá VSTEP, nhưng vẫn đảm bả
 - TypeScript  
 - Pinia (state management)  
 - Vue Router  
-- UI library: (Element Plus / Naive UI / Tailwind CSS – tùy chọn)
+- UI library: (Tailwind CSS)
 
 ### Backend API
 
